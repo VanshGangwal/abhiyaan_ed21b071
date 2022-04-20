@@ -1,0 +1,6 @@
+<launch>
+    
+    <node pkg="task2" type="subscriber_node.py" name="subscriber_node" output="screen" ></node>
+    <arg name="node_start_delay" default="1.0" /> 
+    <node pkg="task2" type="publisher_node.py" name="publisher_node" output="screen" launch-prefix="bash -c 'sleep $(arg node_start_delay); $0 $@' "></node>
+</launch>
