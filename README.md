@@ -13,7 +13,8 @@ Current PORs:
 NONE
 
 Why I want to work with the team:
-I want to be surrounded by people who teach me a lot of stuff, so I believe that Abhiyaan will provide me with this opportunity. I am very facinated by the stuff that people at Abhiyaan do.
+I want to be surrounded by people who teach me a lot of stuff, so I believe that Abhiyaan will provide me with this opportunity. I am very facinated by the stuff that people at Abhiyaan do. 
+If you give me a chance, i will not let the team down.
 
 Relevant Courses:
 In Insti:
